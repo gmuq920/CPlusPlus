@@ -1,0 +1,19 @@
+﻿  Test.cpp
+C:\CPlusPlus\Project_6_30\Project_6_30\Test.cpp(136,5): error C2664: “void Stack<char>::Push(const T &)”: 无法将参数 1 从“const char [4]”转换为“const T &”
+C:\CPlusPlus\Project_6_30\Project_6_30\Test.cpp(136,5): error C2664:         with
+C:\CPlusPlus\Project_6_30\Project_6_30\Test.cpp(136,5): error C2664:         [
+C:\CPlusPlus\Project_6_30\Project_6_30\Test.cpp(136,5): error C2664:             T=char
+C:\CPlusPlus\Project_6_30\Project_6_30\Test.cpp(136,5): error C2664:         ]
+      C:\CPlusPlus\Project_6_30\Project_6_30\Test.cpp(136,10):
+      原因如下: 无法从“const char [4]”转换为“const T”
+          with
+          [
+              T=char
+          ]
+      C:\CPlusPlus\Project_6_30\Project_6_30\Test.cpp(136,10):
+      没有使该转换得以执行的上下文
+      C:\CPlusPlus\Project_6_30\Project_6_30\Test.cpp(99,7):
+      参见“Stack<char>::Push”的声明
+      C:\CPlusPlus\Project_6_30\Project_6_30\Test.cpp(136,5):
+      尝试匹配参数列表“(const char [4])”时
+  
