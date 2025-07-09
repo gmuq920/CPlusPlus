@@ -1,0 +1,6 @@
+﻿  Test.cpp
+C:\CPlusPlus\Project_leet_917\Project_leet_917\Test.cpp(44,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\CPlusPlus\Project_leet_917\Project_leet_917\Test.cpp(45,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\CPlusPlus\Project_leet_917\Project_leet_917\Test.cpp(50,35): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\CPlusPlus\Project_leet_917\Project_leet_917\Test.cpp(54,35): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  Project_leet_917.vcxproj -> C:\CPlusPlus\Project_leet_917\x64\Debug\Project_leet_917.exe
